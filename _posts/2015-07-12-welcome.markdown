@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2015-07-12 11:04:07
+categories: welcome
+---
+
+Welcome to my github page. 
+
+I haven't been much of a blogger, so don't expect a lot of posts. What few old posts I have made can be found at my [old blog][old_blog]
+
+I have another site that is pretty dated: [drpaulcarter.com][drpaulcarter].
+
+[drpaulcarter]: http://www.drpaulcarter.com
+[assembly]: http://www.drpaulcarter.com/pcasm
+[old_blog]: http://drpaulcarter.blogspot.com
