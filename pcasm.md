@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: pcasm
 title: PC Assembly Book
+menu: main
 permalink: /pcasm/
 ---
 
