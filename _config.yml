@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   using mostly C++, Java and Python.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pacman128.github.io" # the base hostname & protocol for your site
-twitter_username: pacman0x80
+#twitter_username: pacman0x80
 github_username:  pacman128
 
 # Build settings
