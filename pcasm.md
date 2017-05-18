@@ -59,31 +59,31 @@ Feedback is welcome. Below are links to the files:
 
 ## Example code:
 
-* [Linux examples]({{site-url}}/static/linux-ex.zip)
-* [DJGPP examples]({{site-url}}/static/djgpp-ex.zip)
+* [Linux examples](/static/linux-ex.zip)
+* [DJGPP examples](/static/djgpp-ex.zip)
 * [cygwin examples]({{site-url}}/static/cgywin-ex.zip)
-* [MS C examples]({{site-url}}/static/ms-ex.zip)
-* [Borland examples]({{site-url}}/static/borland-ex.zip)
-* [Open Watcom examples]({{site-url}}/static/watcom-ex.zip)
+* [MS C examples](/static/ms-ex.zip)
+* [Borland examples](/static/borland-ex.zip)
+* [Open Watcom examples](/static/watcom-ex.zip)
 
 ## Book
 
-* [English PDF File]({{site-url}}/static/pcasm-book.pdf)
+* [English PDF File](/static/pcasm-book.pdf)
 * [Physical book in English from Lulu](http://www.lulu.com/content/paperback-book/pc-assembly-language/7341484)
 
-* [French PDF file]({{site-url}}/static/pcasm-book-french.pdf) 
+* [French PDF file](/static/pcasm-book-french.pdf) 
 (Translated by Sébastien Le Ray)
-* [German PDF file]({{site-url}}/static/pcasm-book-german.pdf)
+* [German PDF file](/static/pcasm-book-german.pdf)
 (Translated by Ulrich Bicheler)
-* [Spanish PDF file]({{site-url}}/static/pcasm-book-spanish.pdf)
+* [Spanish PDF file](/static/pcasm-book-spanish.pdf)
 (Translated by Leonardo Rodríguez Mújica)
-* [Italian PDF file]({{site-url}}/static/pcasm-book-italian.pdf)
+* [Italian PDF file](/static/pcasm-book-italian.pdf)
 (Translated by Giacomo Bruschi)
-* [Korean PDF file]({{site-url}}/static/pcasm-book-korean.pdf)
+* [Korean PDF file](/static/pcasm-book-korean.pdf)
 (Translated by Jae Beom Lee)
-* [Simplified Chinese PDF file]({{site-url}}/static/pcasm-book-simplified-chinese.pdf)
+* [Simplified Chinese PDF file](/static/pcasm-book-simplified-chinese.pdf)
 (Translated by Wu Xing)
-* [Traditional Chinese PDF file]({{site-url}}/static/pcasm-book-traditional-chinese.pdf)
+* [Traditional Chinese PDF file](/static/pcasm-book-traditional-chinese.pdf)
 (Translated by Wu Xing)
 
 
