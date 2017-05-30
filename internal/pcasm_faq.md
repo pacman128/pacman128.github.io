@@ -8,7 +8,7 @@ permalink: /internal/pcasm_faq/
 <ol>
 <li>Where is the <em>asm_io.inc</em> file referred to
 in the tutorial?
-<p >
+<p>
 It's not listed anywhere in the tutorial; however, it is in the source
 zip files. The <em>asm_io</em> object file that <em>asm_io.inc</em>
 requires is also in the source zip files.
@@ -16,7 +16,7 @@ requires is also in the source zip files.
 </li>
 <li>Why does the example code generate segmentation fault/coredumps 
     on RedHat 7.1?
-<p >
+<p>
 Red Hat 7.1 includes an rpm for version 0.98.xx of NASM. However, this
 is <em>not</em> a stable release! Get version 0.97 or a more recent
 0.98 version and all will be fine.
@@ -24,7 +24,7 @@ is <em>not</em> a stable release! Get version 0.97 or a more recent
 </li>
 
 <li>Can I use the examples with the Windows cygwin port of gcc?
-<p >
+<p>
 The <a href="http://www.cygwin.com/">Cygwin</a> gcc compiler port
 seems to use the same object file format as Microsoft's Visual C/C++
 compiler. So the <a href="ms-ex.zip">Microsoft examples</a>
@@ -35,7 +35,7 @@ to confirm this myself.
 </li>
 
 <li>Can I use the examples with the Windows MinGW port of gcc?
-<p >
+<p>
 Yes, but it will take some work. Like Cygwin, you will need to use the 
 <a href="ms-ex.zip">Microsoft examples</a> and use -f win32 when assembling
 your code. However, NASM will by default create an object file with a .obj
@@ -44,30 +44,30 @@ the files yourself or tell NASM to when it generates them. Example,
 <pre >
 nasm -f win32 -o file.o file.asm
 </pre>
-<p >
+<p>
 You can change lines 16 and 17 lines of the Makefile to be:
 </p>
-<pre >
+<pre>
 .asm.obj:
 	$(AS) $(ASFLAGS) -o $*.o $*.asm
 </pre>
-<p >
+<p>
 to fix it to automatically do this.
 </p>
-</li>
 
-<li>How can I compile the example code as 32-bit on a
-  64-bit Linux OS?
-<p >
-When compiling the C/C++ code, use the <b>-m32</b> flag with gcc. If using my
-Makefile, just add <b>-m32</b> to the <em>CFLAGS</em> and <em>CXXFLAGS</em>
-macro.
-</p>
+<li>How can I compile the example code as 32-bit on a 64-bit Linux OS?
+  <p > Yes, the makefile for Linux should work for 64-bit Linux
+  now. However, you will need to 32-bit C library support. On
+  debian-based systems, the following should work:
+<pre>
+sudo apt-get install g++-multilib libc6-dev-i386
+</pre>
+  </p>
 </li>
 
 
 <li>Is something wrong with Figure&nbsp;1.1?
-<p >
+<p>
 It seems that this figure was misleading. The figure shows 8 separate
 one bit additions, not 2 4-bit ones. This is <em>hopefully</em>
 fixed in the current edition.
@@ -81,7 +81,7 @@ Yes, a new edition of the tutorial added a chapter covering these topics.
 </li>
 
 <li>Is the tutorial available as HTML?
-<p >
+<p>
 Unfortunately not. It is written in <em>LaTeX</em>, but uses some packages that
 the <em>latex2html</em> does not support. If I was starting today, I
 would probably use <em>DocBook</em> which can output many different
@@ -94,7 +94,7 @@ in <em>LaTeX</em>.
 
 <li>Does the tutorial cover MMX or SSE instructions?
 
-<p > No, it doesn't and probably never will. I don't
+<p> No, it doesn't and probably never will. I don't
 know how to use these newer instructions. I'm not a real assembly
 programmer. The tutorial is meant to be an introduction to assembly
 for C/C++ programmers like myself. I try to stress the ideas from
@@ -109,7 +109,7 @@ sources.
 
 
 <li>Do you take unsolicited questions?
-<p > Questions, comments and corrections about the
+<p> Questions, comments and corrections about the
 tutorial are welcome and I will reply as promptly as I can. Questions
 on how to write your own OS, <em>etc.</em> will probably be ignored unless I
 feel qualified on the subject and find the question interesting. Homework
@@ -120,7 +120,7 @@ questions will be ignored and get your e-mail address added to my block list!
 </li>
 
 <li>Can I translate your tutorial to another language?
-<p >
+<p>
 Yes, you may. However, I have not had much luck with others making this offer.
 After sending them the LaTeX source, I never hear from them again. To help
 stem this problem, I am making the LaTeX source for the first chapter available.
@@ -154,5 +154,5 @@ Microsoft's free compiler download</a></li>
 processor documentation</a>
 </li>
 </ul>
-</ol>
+
 
