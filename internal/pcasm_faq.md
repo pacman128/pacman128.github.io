@@ -120,18 +120,14 @@ questions will be ignored and get your e-mail address added to my block list!
 </li>
 
 <li>Can I translate your tutorial to another language?
-<p>
-Yes, you may. However, I have not had much luck with others making this offer.
-After sending them the LaTeX source, I never hear from them again. To help
-stem this problem, I am making the LaTeX source for the first chapter available.
-If you are serious about translating my tutorial, download the file below and
-translate the first chapter. Send me your work and I will then send you source
-for the other chapters. 
-</p>
+
+<p> Yes, I've put up the LaTeX source on GitHub, so you can get what I
+used to generate the English (and the other translations). Just fork and
+create a directory for your language, then send me a pull request when you
+are done.</p>
 
 <p>
-<a href="/static/pcasm-chapter1.zip">Chapter 1 LaTeX source zip file</a> Read the <tt>README</tt>
-file for instructions on getting started.
+The GitHub page is at <a href="https://github.com/pacman128/pcasm">https://github.com/pacman128/pcasm</a>
 </p>
 </li>
 
