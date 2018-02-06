@@ -137,12 +137,12 @@ The GitHub page is at <a href="https://github.com/pacman128/pcasm">https://githu
 <li><a href="http://sourceforge.net/projects/nasm/">NASM
 SourceForge project pages</a></li>
 
-<li><a href="http://www.linuxassembly.org/">www.linuxassembly.org</a></li>
+<li><a href="http://asm.sourceforge.net/">Linux Assembly</a></li>
 <li><a href="http://rs1.szif.hu/~tomcat/win32/">win32NASM</a></li>
 <li><a href="http://msdn.microsoft.com/vstudio/express/visualC/default.aspx">
 Microsoft's free compiler download</a></li>
 <li>
-<a href="http://webster.cs.ucr.edu/">Randall Hyde's Art of Assembly Page</a></li>
+<a href="http://www.plantation-productions.com/Webster/">Randall Hyde's Art of Assembly Page</a></li>
 <li>
 <a href="http://www2.dgsys.com/~raymoon/x86faqs.html">x86 FAQ</a></li>
 <li>
