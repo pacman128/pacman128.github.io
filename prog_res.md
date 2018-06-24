@@ -5,6 +5,7 @@ menu: main
 permalink: /prog/
 ---
 
-Other resources
+[Common C Errors]({{site-url}}/internal/common_c_errors)
+
 
 
