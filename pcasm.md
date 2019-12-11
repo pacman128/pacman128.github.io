@@ -61,7 +61,7 @@ Feedback is welcome. Below are links to the files:
 
 * [Linux examples]({{site-url}}/static/linux-ex.zip)
 * [DJGPP examples]({{site-url}}/static/djgpp-ex.zip)
-* [cygwin examples]({{site-url}}/static/cgywin-ex.zip)
+* [cygwin examples]({{site-url}}/static/cygwin-ex.zip)
 * [MS C examples]({{site-url}}/static/ms-ex.zip)
 * [Borland examples]({{site-url}}/static/borland-ex.zip)
 * [Open Watcom examples]({{site-url}}/static/watcom-ex.zip)
