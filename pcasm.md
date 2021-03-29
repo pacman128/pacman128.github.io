@@ -5,7 +5,7 @@ menu: main
 permalink: /pcasm/
 ---
 
-I taught Computer Science at the [University of Central Oklahoma](http://www.ucok.edu) for 10 years. During this time I taught an introductory course in PC
+I taught Computer Science at the [University of Central Oklahoma](http://www.uco.edu) for 10 years. During this time I taught an introductory course in PC
 Assembly Language programming. I grew frustrated at teaching 16-bit
 real mode programming and decided to change to 32-bit protected mode.
 However, I soon ran into a problem. I could not find a textbook that
