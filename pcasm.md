@@ -69,7 +69,7 @@ Feedback is welcome. Below are links to the files:
 ## Book
 
 * [English PDF File]({{site-url}}/static/pcasm-book.pdf)
-* [Physical book in English from Lulu](http://www.lulu.com/content/paperback-book/pc-assembly-language/7341484)
+* [Physical book in English from Lulu](https://www.lulu.com/shop/paul-carter/pc-assembly-language/paperback/product-1kvrqq56.html)
 
 * [French PDF file]({{site-url}}/static/pcasm-book-french.pdf) 
 (Translated by Sébastien Le Ray)
