@@ -85,7 +85,8 @@ Feedback is welcome. Below are links to the files:
 (Translated by Wu Xing)
 * [Traditional Chinese PDF file]({{site-url}}/static/pcasm-book-traditional-chinese.pdf)
 (Translated by Wu Xing)
-
+* [Persian PDF file]({{site-url}}/static/pcasm-book-persian.pdf)
+* (Translated by Yasin Alipour)
 
 
 
